@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>Cyber Comics Association</title>
+<link rel="stylesheet" href="style.css">
+
+<!-- Firebase -->
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+
+const firebaseConfig = {
+apiKey: "YOUR_API_KEY",
+authDomain: "cca-network.firebaseapp.com",
+projectId: "cca-network",
+storageBucket: "cca-network.appspot.com",
+messagingSenderId: "617798158661",
+appId: "1:617798158661:web:..."
+};
+
+initializeApp(firebaseConfig);
+</script>
+
+</head>
+
+<body>
+
+
+<header class="navbar">
+<h1 class="logo">CCA</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="guild.html">Guild</a>
+<a href="artisan.html">Artisan Sector</a>
+<a href="writers.html">Writers</a>
+<a href="editors.html">Editors</a>
+<a href="leaderboards.html" class="active">Leaderboards</a>
+</nav>
+
+
+</header>
+
+<section class="hero">
+<h2>CCA Leaderboards</h2>
+<p>Top creators in the association</p>
+</section>
+
+<section class="leaderboard">
+
+<ul>
+<li>Top Artist</li>
+<li>Top Writer</li>
+<li>Most Active Member</li>
+<li>Best Manga Panel</li>
+<li>Best Story Arc</li>
+</ul>
+
+</section>
+
+<footer>
+<p>Cyber Comics Association</p>
+</footer>
+
+</body>
+</html>
