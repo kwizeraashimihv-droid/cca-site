@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>CCA Home</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="header"></div>
+
+<section class="hero">
+<h1>Welcome to CCA</h1>
+<p>Create your future</p>
+<p id="welcomeUser"></p>
+</section>
+
+<section class="featured">
+<h2>Featured Anime</h2>
+<div class="anime-grid" id="featuredGrid"></div>
+</section>
+
+<section class="trending">
+<h2>Trending Anime</h2>
+
+<div class="carousel">
+<button class="scroll-btn left" onclick="scrollTrending(-1)">‹</button>
+<div class="carousel-track" id="trendingTrack"></div>
+<button class="scroll-btn right" onclick="scrollTrending(1)">›</button>
+</div>
+
+</section>
+
+<section class="activity">
+<h2>CCA Activity</h2>
+
+<ul class="activity-list">
+<li>Akira uploaded a new manga panel</li>
+<li>Rika wrote a new story chapter</li>
+<li>Kai joined the Artisan Sector</li>
+<li>Sora edited a manga script</li>
+</ul>
+
+</section>
+
+<section class="about">
+<h2>What is CCA</h2>
+
+<p>
+Cyber Comics Association is a space where creators grow together.
+Artists, writers and editors build real projects and skills.
+</p>
+
+</section>
+
+<div id="footer"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

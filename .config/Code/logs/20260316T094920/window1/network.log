@@ -1,0 +1,15 @@
+2026-03-16 09:49:58.269 [error] #1: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-16 09:49:58.301 [error] #2: https://main.vscode-cdn.net/core/stable.json - error GET Failed to fetch
+2026-03-16 09:50:34.739 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-16 09:51:00.952 [error] #4: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-16 09:51:26.068 [error] #5: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2026-03-16 09:59:45.578 [error] #6: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-16 10:03:49.779 [error] #1: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-16 10:03:49.785 [error] #3: https://main.vscode-cdn.net/core/stable.json - error GET Failed to fetch
+2026-03-16 10:03:53.507 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-16 10:04:19.637 [error] #4: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-17 09:52:52.709 [error] #55: https://main.vscode-cdn.net/core/stable.json - error GET Fetch timeout: 20000ms
+2026-03-17 09:52:58.822 [error] #56: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-17 09:52:58.973 [error] #57: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-17 09:53:25.102 [error] #58: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2026-03-17 09:53:50.203 [error] #59: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch

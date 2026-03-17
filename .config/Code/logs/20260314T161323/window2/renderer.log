@@ -1,0 +1,8 @@
+2026-03-14 16:13:32.625 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 52ms.
+2026-03-14 16:13:33.054 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 25ms.
+2026-03-14 16:13:33.099 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 35ms.
+2026-03-14 16:13:33.117 [warning] Creation of workbench contribution 'workbench.contrib.localHistoryTimeline' took 32ms.
+2026-03-14 16:13:36.731 [info] Started local extension host with pid 3239.
+2026-03-14 16:13:42.716 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-14 16:13:43.167 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-14 16:13:45.145 [info] [perf] Render performance baseline is 103ms

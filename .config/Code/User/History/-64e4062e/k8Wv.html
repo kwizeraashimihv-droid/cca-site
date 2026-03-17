@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Cyber Comics Association</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="header"></div>
+
+<!-- HERO (NOW MAIN DASHBOARD) -->
+<section class="hero">
+
+<h1>Cyber Comics Association</h1>
+<p>Create. Build. Become.</p>
+
+<p id="welcomeUser"></p>
+
+<div class="guild-grid">
+
+<div class="guild-card" onclick="location.href='guild.html'">
+<h3>Artisan Guild</h3>
+<p>Learn anatomy, character design and manga panels.</p>
+<button class="guildBtn" data-guild="Artisan">Enter Artisan</button>
+</div>
+
+<div class="guild-card" onclick="location.href='writers.html'">
+<h3>Writer Guild</h3>
+<p>Develop stories, dialogue and world building.</p>
+<button class="guildBtn" data-guild="Writer">Enter Writer</button>
+</div>
+
+<div class="guild-card" onclick="location.href='editors.html'">
+<h3>Editor Guild</h3>
+<p>Edit scripts, pacing and manga structure.</p>
+<button class="guildBtn" data-guild="Editor">Enter Editor</button>
+</div>
+
+</div>
+
+</section>
+
+<!-- FEATURED ANIME -->
+<section class="featured">
+<h2>Featured Anime</h2>
+<div class="anime-grid" id="featuredGrid"></div>
+</section>
+
+<!-- TRENDING ANIME -->
+<section class="trending">
+
+<h2>Trending Anime</h2>
+
+<div class="carousel">
+
+<button class="scroll-btn left" onclick="scrollTrending(-1)">‹</button>
+
+<div class="carousel-track" id="trendingTrack"></div>
+
+<button class="scroll-btn right" onclick="scrollTrending(1)">›</button>
+
+</div>
+
+</section>
+
+<!-- ACTIVITY -->
+<section class="activity">
+
+<h2>CCA Activity</h2>
+
+<ul class="activity-list">
+
+<li>Akira uploaded a new manga panel</li>
+<li>Rika wrote a new story chapter</li>
+<li>Kai joined the Artisan Sector</li>
+<li>Sora edited a manga script</li>
+
+</ul>
+
+</section>
+
+<!-- ABOUT -->
+<section class="about">
+
+<h2>What is CCA</h2>
+
+<p>
+Cyber Comics Association unites anime fans, artists, writers and editors.
+Members create stories, manga panels and creative projects together.
+</p>
+
+</section>
+
+<!-- JOIN POPUP (still needed for new users) -->
+<div id="joinPopup" class="join-popup">
+
+<div class="join-box">
+
+<span id="closeJoin">✕</span>
+
+<h2>Join CCA</h2>
+
+<input id="username" placeholder="Choose Username">
+
+<input id="age" type="number" placeholder="Age">
+
+<select id="guildSelect">
+<option value="Artisan">Artisan</option>
+<option value="Writer">Writer</option>
+<option value="Editor">Editor</option>
+</select>
+
+<input id="animeWatched" placeholder="Anime you completed">
+
+<button id="submitJoin">Join CCA</button>
+
+</div>
+
+</div>
+
+<div id="footer"></div>
+
+<!-- LOGIN MODAL -->
+<div id="loginModal" class="modal">
+
+<div class="modalBox">
+
+<span id="closeLogin" class="closeBtn">✕</span>
+
+<h3>Join CCA</h3>
+<p>Sign in with Google</p>
+
+<button id="googleLogin">Sign in with Google</button>
+
+</div>
+
+</div>
+
+<!-- ANIME POPUP -->
+<div id="animePopup" class="anime-popup">
+
+<div class="popup-card">
+
+<span id="closePopup">✕</span>
+
+<img id="popupPoster">
+
+<h2 id="popupTitle"></h2>
+
+<p id="popupScore"></p>
+
+<a id="watchLink" target="_blank">Watch Anime</a>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+2026-03-15 13:29:00.430 [error] #8: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-03-15 13:29:01.551 [error] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-03-15 15:54:52.187 [error] #24: https://main.vscode-cdn.net/core/stable.json - error GET Fetch timeout: 20000ms
+2026-03-15 15:54:58.646 [error] #23: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-15 16:01:29.509 [error] #25: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-15 16:06:54.641 [error] #26: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-15 16:12:20.747 [error] #27: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-15 21:59:01.039 [error] #78: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2026-03-15 21:59:01.040 [error] #79: https://main.vscode-cdn.net/core/stable.json - error GET Failed to fetch

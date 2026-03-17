@@ -1,0 +1,38 @@
+2026-03-17 10:15:40.452 [warning] Creation of workbench contribution 'workbench.contributions.defaultAccountProvider' took 36ms.
+2026-03-17 10:15:40.996 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 87ms.
+2026-03-17 10:15:52.894 [info] Started local extension host with pid 4845.
+2026-03-17 10:16:05.041 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-17 10:16:05.544 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-17 10:16:07.967 [info] [perf] Render performance baseline is 72ms
+2026-03-17 11:29:41.686 [error] TypeError: Failed to fetch
+    at xTo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:49483)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50779
+    at Cct.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10047)
+    at Cct.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50759)
+    at P2e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6813)
+    at P2e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6706)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6597
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:80398
+2026-03-17 11:29:41.875 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-17 14:02:18.078 [error] TypeError: Failed to fetch
+    at xTo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:49483)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50779
+    at Cct.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10047)
+    at Cct.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50759)
+    at P2e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6813)
+    at P2e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6706)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6597
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:80398
+2026-03-17 14:02:18.093 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-17 14:03:49.967 [info] ChatService#cancelCurrentRequestForSession: No pending request was found for session vscode-chat-session://local/Yjg2MmEwYjctNDA0MS00M2RlLWFmYzctMzAzOWZiMDEyODcy. requestInProgress=false, pendingRequests=0
+2026-03-17 14:03:59.640 [info] ChatService#cancelCurrentRequestForSession: No pending request was found for session vscode-chat-session://local/MzQyOTVlMDMtOTgwMy00NjMxLThlMDItMDhjN2I2OGM5YjNh. requestInProgress=false, pendingRequests=0
+2026-03-17 14:04:12.337 [info] ChatService#cancelCurrentRequestForSession: No pending request was found for session vscode-chat-session://local/M2FmYWZiMGYtNjc4ZC00NzdkLTljYjgtNTIyOTQxYjA3MTZl. requestInProgress=false, pendingRequests=0
+2026-03-17 17:22:48.399 [error] TypeError: Failed to fetch
+    at xTo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:49483)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50779
+    at Cct.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10047)
+    at Cct.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50759)
+    at P2e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6813)
+    at P2e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6706)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6597
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:80398

@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>Cyber Comics Association</title>
+<link rel="stylesheet" href="style.css">
+
+<!-- Firebase -->
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js"
+
+const firebaseConfig = {
+apiKey: "AIzaSyCtcOAJv3M4-nNDxa8Hy5YSjhiRTGqFvvU",
+authDomain: "cca-network.firebaseapp.com",
+projectId: "cca-network",
+storageBucket: "cca-network.firebasestorage.app",
+messagingSenderId: "617798158661",
+appId: "1:617798158661:web:da6a33b127f9c2ab81962c"
+}
+
+initializeApp(firebaseConfig)
+
+</script>
+
+</head>
+
+<body>
+
+
+<div id="header"></div>
+
+<section class="hero">
+<h2>Cyber Comics Association</h2>
+<p>Anime fans create stories, art, edits</p>
+<button>Join CCA</button>
+</section>
+<section class="members">
+
+<div class="member-card">
+
+<h3>Join CCA</h3>
+
+<button id="googleLogin">Sign in with Google</button>
+
+<br><br>
+
+<select id="country">
+<option value="+1">United States +1</option>
+<option value="+44">United Kingdom +44</option>
+<option value="+250">Rwanda +250</option>
+<option value="+91">India +91</option>
+<option value="+81">Japan +81</option>
+</select>
+
+<br><br>
+
+<input id="phoneNumber" placeholder="Phone number">
+
+<br><br>
+
+<button id="sendCode">Send Verification Code</button>
+
+<br><br>
+
+<input id="verificationCode" placeholder="Enter code">
+
+<br><br>
+
+<button id="verifyCode">Verify</button>
+
+</div>
+
+</section>
+
+
+<section class="about">
+<h2>What is CCA</h2>
+<p>Cyber Comics Association unites anime fans, artists, writers, editors. Members create stories, manga panels, edits, projects together.</p>
+</section>
+
+
+<section class="structure">
+
+<h2>CCA Structure</h2>
+
+<div class="role">
+<h3>Premier</h3>
+<p>Leader of the association</p>
+</div>
+
+<div class="role">
+<h3>Co Premier</h3>
+<p>Supports leadership and organization</p>
+</div>
+
+<div class="role">
+<h3>Artisan Sector</h3>
+<p>Artists create character designs and manga panels</p>
+</div>
+
+<div class="role">
+<h3>Writers</h3>
+<p>Story creators and script writers</p>
+</div>
+
+<div class="role">
+<h3>Editors</h3>
+<p>Content review and story polishing</p>
+</div>
+
+</section>
+
+
+<section class="leaderboard">
+
+<h2>Top Members</h2>
+
+<ul>
+<li>Top Artist</li>
+<li>Top Writer</li>
+<li>Most Active Member</li>
+<li>Best Manga Panel</li>
+</ul>
+
+</section>
+
+<div id="footer"></div>
+
+<script src="script.js"></script>
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyCtCoAJv3M4-nNDxa8Hy5YSjhiRTGqFvvU",
+    authDomain: "cca-network.firebaseapp.com",
+    projectId: "cca-network",
+    storageBucket: "cca-network.firebasestorage.app",
+    messagingSenderId: "617798158661",
+    appId: "1:617798158661:web:da6a33b127f9c2ab81962c"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+</script>
+</body>
+</html>

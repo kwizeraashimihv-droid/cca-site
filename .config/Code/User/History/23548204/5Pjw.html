@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Cyber Comics Association</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HEADER LOADS HERE -->
+<div id="header"></div>
+
+
+<!-- HERO -->
+<section class="hero">
+
+<h1>Cyber Comics Association</h1>
+<p>Anime fans create stories, art, edits</p>
+
+<button id="joinBtn">Join CCA</button>
+
+</section>
+
+<section class="featured">
+
+<h2>Featured Anime</h2>
+
+<div class="anime-grid"></div>
+
+</section>
+
+
+</section>
+
+<section class="trending">
+
+<h2>Trending Anime</h2>
+
+<div class="carousel">
+
+<button class="scroll-btn left" onclick="scrollTrending(-1)">‹</button>
+
+<div class="carousel-track" id="trendingTrack"></div>
+
+<button class="scroll-btn right" onclick="scrollTrending(1)">›</button>
+
+</div>
+
+</section>
+
+
+<section class="activity">
+
+<h2>CCA Activity</h2>
+
+<ul class="activity-list">
+
+<li>Akira uploaded a new manga panel</li>
+<li>Rika wrote a new story chapter</li>
+<li>Kai joined the Artisan Sector</li>
+<li>Sora edited a manga script</li>
+
+</ul>
+
+</section>
+
+
+<!-- LOGIN POPUP -->
+<div id="loginModal" class="modal">
+
+<div class="modalBox">
+
+<span id="closeLogin" class="closeBtn">✕</span>
+
+<h3>Join CCA</h3>
+<p>Sign in with your Google account</p>
+
+<button id="googleLogin">Sign in with Google</button>
+
+</div>
+
+</div>
+
+
+<!-- ABOUT -->
+<section class="about">
+
+<h2>What is CCA</h2>
+
+<p>
+Cyber Comics Association unites anime fans, artists, writers and editors.
+Members create stories, manga panels and creative projects together.
+</p>
+
+</section>
+
+
+<div id="footer"></div>
+
+
+<script>
+
+const joinBtn = document.getElementById("joinBtn")
+const modal = document.getElementById("loginModal")
+const closeBtn = document.getElementById("closeLogin")
+
+joinBtn.onclick = function(){
+modal.style.display = "flex"
+}
+
+closeBtn.onclick = function(){
+modal.style.display = "none"
+}
+
+window.onclick = function(event){
+if(event.target === modal){
+modal.style.display = "none"
+}
+}
+
+</script>
+
+<script src="script.js"></script>
+<script type="module" src="auth.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+2026-03-17 10:15:55.016 [info] Extension host with pid 4845 started
+2026-03-17 10:15:55.016 [info] Skipping acquiring lock for /home/kwizeraashimihv/.config/Code/User/workspaceStorage/18bbae9988711fefc0b3f1699a80c9ac.
+2026-03-17 10:15:57.460 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-17 10:15:57.591 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-17 10:15:57.743 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-03-17 10:15:58.597 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-17 10:16:00.600 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-17 10:16:00.842 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-17 10:16:02.076 [info] Eager extensions activated
+2026-03-17 10:16:02.418 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-17 10:16:02.429 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-17 10:16:02.628 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-03-17 10:18:27.291 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-17 10:19:23.850 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

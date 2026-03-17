@@ -1,0 +1,39 @@
+2026-03-15 13:17:24.379 [warning] Creation of workbench contribution 'workbench.contrib.viewsExtensionHandler' took 30ms.
+2026-03-15 13:17:24.503 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 21ms.
+2026-03-15 13:17:24.577 [warning] Creation of workbench contribution 'workbench.contrib.exploreAgentDefaultModel' took 47ms.
+2026-03-15 13:17:24.635 [warning] Creation of workbench contribution 'workbench.contrib.chatLanguageModelsData' took 31ms.
+2026-03-15 13:17:24.646 [warning] Creation of workbench contribution 'chat.codeBlockActionRendering' took 39ms.
+2026-03-15 13:17:24.777 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 126ms.
+2026-03-15 13:17:24.846 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 31ms.
+2026-03-15 13:17:24.881 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 46ms.
+2026-03-15 13:17:34.784 [info] Started local extension host with pid 551.
+2026-03-15 13:17:52.743 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-15 13:17:53.547 [warning] Creation of workbench contribution 'terminal.chatAgentTools' took 101ms.
+2026-03-15 13:17:53.792 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-15 13:17:56.516 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 161ms.
+2026-03-15 13:17:59.403 [info] [perf] Render performance baseline is 768ms
+2026-03-15 13:24:15.789 [info] Started local extension host with pid 1407.
+2026-03-15 13:24:19.218 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-15 13:24:20.219 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-15 13:24:21.756 [info] [perf] Render performance baseline is 109ms
+2026-03-15 15:54:52.201 [error] Error: Fetch timeout: 20000ms
+    at xTo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:49693)
+    at async Cct.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10041)
+    at async P2e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6787)
+    at async P2e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6695)
+2026-03-15 15:54:58.647 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-15 16:01:29.510 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-15 16:06:48.986 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-15 16:06:54.642 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-15 16:12:20.747 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-15 16:38:44.138 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-15 21:59:01.040 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-03-15 21:59:01.041 [error] TypeError: Failed to fetch
+    at xTo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:49483)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50779
+    at Cct.logAndRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10047)
+    at Cct.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4957:50759)
+    at P2e.doFetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6813)
+    at P2e.fetchAlerts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6706)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5330:6597
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:80398

@@ -1,0 +1,115 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e3007ad0c6906c3401cdfa221655f4c8a3aee7020c618c92d5393dbed6c62a17",
+    "telemetry.devDeviceId": "0ce980a5-014a-4cde-b275-7633ddef2280",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/kwizeraashimihv/CCA-SITE"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1773756939675"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/kwizeraashimihv/CCA-web": "__default__profile__",
+            "file:///mnt/chromeos/MyFiles/CCA-site": "__default__profile__",
+            "file:///home/kwizeraashimihv/CCA-SITE": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1773756939675": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/kwizeraashimihv/CCA-SITE",
+            "backupPath": "/home/kwizeraashimihv/.config/Code/Backups/1833d3ed1ec585684969aec86d09ac34",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 533,
+                "height": 358
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/kwizeraashimihv/CCA-SITE",
+                "backupPath": "/home/kwizeraashimihv/.config/Code/Backups/1833d3ed1ec585684969aec86d09ac34",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 533,
+                    "height": 358
+                }
+            },
+            {
+                "backupPath": "/home/kwizeraashimihv/.config/Code/Backups/1773756939675",
+                "uiState": {
+                    "mode": 1,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1066,
+                    "height": 551
+                }
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 266,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "4717c11f151f9f289fb2f04a966586d7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6ee4da9f51df46a04634207db6af15dc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "18bbae9988711fefc0b3f1699a80c9ac": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

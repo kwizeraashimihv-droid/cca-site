@@ -1,0 +1,26 @@
+2026-03-15 13:17:46.266 [info] Extension host with pid 551 started
+2026-03-15 13:17:47.460 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-15 13:17:47.663 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-15 13:17:48.421 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-15 13:17:49.327 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-15 13:17:49.843 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-15 13:17:52.029 [info] Eager extensions activated
+2026-03-15 13:17:52.171 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 13:17:52.188 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 13:24:12.010 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-15 13:24:12.152 [info] Extension host with pid 551 exiting with code 0
+2026-03-15 13:24:18.385 [info] Extension host with pid 1407 started
+2026-03-15 13:24:18.385 [info] Skipping acquiring lock for /home/kwizeraashimihv/.config/Code/User/workspaceStorage/6ee4da9f51df46a04634207db6af15dc.
+2026-03-15 13:24:18.676 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-15 13:24:18.814 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-15 13:24:19.172 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-03-15 13:24:19.194 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-15 13:24:19.474 [info] Eager extensions activated
+2026-03-15 13:24:19.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 13:24:19.500 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 13:25:39.626 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-03-15 13:25:53.195 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-03-15 13:29:45.399 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-03-15 16:04:08.878 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-15 16:06:26.351 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-03-15 22:04:51.170 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'

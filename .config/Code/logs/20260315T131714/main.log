@@ -1,0 +1,43 @@
+2026-03-15 13:17:16.740 [info] update#setState idle
+2026-03-15 13:17:46.797 [info] update#setState checking for updates
+2026-03-15 13:17:46.982 [info] update#setState idle
+2026-03-15 13:18:58.761 [info] Extension host with pid 565 exited with code: 0, signal: unknown.
+2026-03-15 13:18:59.486 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 517]: crashed with code 15 and reason 'killed'
+2026-03-15 13:24:12.156 [info] Extension host with pid 551 exited with code: 0, signal: unknown.
+2026-03-15 15:54:32.652 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 15:54:32.667 [info] update#setState checking for updates
+2026-03-15 15:54:58.632 [error] #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-15 15:54:58.633 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-15 15:54:58.635 [info] update#setState idle
+2026-03-15 16:01:04.823 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 16:54:31.850 [info] update#setState checking for updates
+2026-03-15 16:54:32.209 [info] update#setState idle
+2026-03-15 17:54:31.860 [info] update#setState checking for updates
+2026-03-15 17:54:32.207 [info] update#setState idle
+2026-03-15 18:54:31.875 [info] update#setState checking for updates
+2026-03-15 18:54:32.176 [info] update#setState idle
+2026-03-15 19:04:36.934 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 19:09:41.110 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 20:01:38.891 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 20:01:38.892 [info] update#setState checking for updates
+2026-03-15 20:01:43.488 [error] #9: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_NETWORK_CHANGED
+2026-03-15 20:01:43.489 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-15 20:01:43.490 [info] update#setState idle
+2026-03-15 20:46:07.804 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 21:58:55.495 [warning] No ptyHost heartbeat after 6 seconds
+2026-03-15 21:58:55.535 [info] update#setState checking for updates
+2026-03-15 21:59:01.031 [error] #10: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_NETWORK_CHANGED
+2026-03-15 21:59:01.031 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-15 21:59:01.032 [info] update#setState idle
+2026-03-15 22:58:56.412 [info] update#setState checking for updates
+2026-03-15 22:58:56.797 [info] update#setState idle
+2026-03-15 23:58:56.415 [info] update#setState checking for updates
+2026-03-15 23:58:56.914 [info] update#setState idle
+2026-03-16 00:58:56.433 [info] update#setState checking for updates
+2026-03-16 00:58:56.767 [info] update#setState idle

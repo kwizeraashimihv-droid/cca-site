@@ -1,0 +1,5 @@
+2026-03-16 09:49:49.085 [info] Log level: Info
+2026-03-16 10:02:58.148 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-03-16 10:03:29.488 [info] Log level: Info
+2026-03-16 10:03:30.203 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-03-16 15:43:03.076 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for kwizeraashimihv-droid/cca-site: Error: No GitHub authentication session available.

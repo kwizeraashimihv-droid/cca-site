@@ -1,0 +1,6 @@
+2026-03-17 11:29:45.843 [error] #20: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_REFUSED
+2026-03-17 11:29:47.675 [error] #19: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-03-17 11:29:48.084 [error] #21: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-03-17 11:29:52.218 [error] #22: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-03-17 14:02:16.090 [error] #81: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_REFUSED
+2026-03-17 17:22:48.208 [error] #93: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED

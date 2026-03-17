@@ -1,0 +1,17 @@
+2026-03-17 10:15:35.898 [info] update#setState idle
+2026-03-17 10:16:05.709 [info] update#setState checking for updates
+2026-03-17 10:16:06.619 [info] update#setState idle
+2026-03-17 11:29:37.535 [info] update#setState checking for updates
+2026-03-17 11:29:41.439 [error] #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_CONNECTION_REFUSED
+2026-03-17 11:29:41.466 [error] Error: net::ERR_CONNECTION_REFUSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-17 11:29:41.519 [info] update#setState idle
+2026-03-17 14:02:07.891 [info] update#setState checking for updates
+2026-03-17 14:02:16.091 [error] #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_CONNECTION_REFUSED
+2026-03-17 14:02:16.091 [error] Error: net::ERR_CONNECTION_REFUSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-17 14:02:16.092 [info] update#setState idle
+2026-03-17 17:23:01.669 [info] update#setState checking for updates
+2026-03-17 17:22:46.640 [info] update#setState idle

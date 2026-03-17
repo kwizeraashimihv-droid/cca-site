@@ -1,0 +1,43 @@
+2026-03-16 09:49:22.563 [error] Invalid path provided: /mnt/chromeos/MyFiles/CCA-site, ENOENT: no such file or directory, stat '/mnt/chromeos/MyFiles/CCA-site'
+2026-03-16 09:49:24.111 [info] update#setState idle
+2026-03-16 09:49:54.154 [info] update#setState checking for updates
+2026-03-16 09:50:04.227 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-16 09:50:04.237 [error] update#isLatestVersion(): failed to check for updates
+2026-03-16 09:50:04.243 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-16 09:50:04.260 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-16 09:50:04.260 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-16 09:50:04.261 [info] update#setState idle
+2026-03-16 10:02:27.055 [error] Invalid path provided: /home/kwizeraashimihv/CCA-web, ENOENT: no such file or directory, stat '/home/kwizeraashimihv/CCA-web'
+2026-03-16 10:03:21.959 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 480]: crashed with code 15 and reason 'killed'
+2026-03-16 10:03:22.145 [info] Extension host with pid 505 exited with code: 0, signal: unknown.
+2026-03-16 10:03:23.146 [error] Extension host with pid 505 still exists, forcefully killing it...
+2026-03-16 10:03:51.963 [error] #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-16 10:03:51.963 [error] update#isLatestVersion(): failed to check for updates
+2026-03-16 10:03:51.963 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-16 10:04:05.031 [error] #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-16 10:04:05.036 [error] update#isLatestVersion(): failed to check for updates
+2026-03-16 10:04:05.043 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-16 14:46:55.362 [info] update#setState checking for updates
+2026-03-16 14:47:08.036 [info] update#setState idle
+2026-03-16 15:46:54.397 [info] update#setState checking for updates
+2026-03-16 15:46:54.768 [info] update#setState idle
+2026-03-16 19:53:24.582 [info] update#setState checking for updates
+2026-03-16 19:53:33.404 [info] update#setState idle
+2026-03-16 20:53:24.676 [info] update#setState checking for updates
+2026-03-16 20:53:25.110 [info] update#setState idle
+2026-03-16 21:53:24.679 [info] update#setState checking for updates
+2026-03-16 21:53:25.320 [info] update#setState idle
+2026-03-17 09:52:31.551 [info] update#setState checking for updates
+2026-03-17 09:52:57.774 [error] #10: https://update.code.visualstudio.com/api/update/linux-x64/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb?bg=true&u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+2026-03-17 09:52:57.775 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:130502)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-03-17 09:52:57.776 [info] update#setState idle
